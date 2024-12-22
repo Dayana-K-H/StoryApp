@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Come share stories and read inspiring stories from friends!</string>
+    <string name="title_welcome_page">Welcome to the Story App!</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="title_login_page">Are you ready to share your story?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="logout">Log out</string>
+    <string name="noData">Data not available</string>
+    <string name="user_name">User Name</string>
+    <string name="photo">Foto</string>
+    <string name="detail_photo">Photo details</string>
+    <string name="detail_name">Name details</string>
+    <string name="detail_description">Detail Description</string>
+    <string name="upload">Upload image</string>
+    <string name="gallery">Open Gallery</string>
+    <string name="camera">Open Camera</string>
+    <string name="empty_image_warning">Please insert image file first</string>
+    <string name="empty_description_warning">The image description has not been filled in yet</string>
+    <string name="add_story">Add Story</string>
+
+    <!--    dialog-->
+    <string name="dialog_title">Yeah!</string>
+    <string name="dialog_message">Account with %1$s is ready. Lets login and share your story.</string>
+    <string name="dialog_next">Next</string>
+
+<!--    hint text-->
+    <string name="hint_photo_description">Photo Description</string>
+    <string name="hint_email">Enter email</string>
+    <string name="error_email">Invalid email</string>
+    <string name="login_text">Log in</string>
+    <string name="fill_text">Fill in first</string>
+    <string name="hint_name">Enter name</string>
+    <string name="error_password">Password cannot be less than 8 characters</string>
+    <string name="hint_password">Enter password</string>
+    <string name="text_sign_up">Sign up</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">Try Again</string>
+</resources>
